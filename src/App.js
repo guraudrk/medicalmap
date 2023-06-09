@@ -14,7 +14,7 @@ const {kakao} = window;
 function App() {
 
   const [isLoading,setIsLoading] = React.useState(true);
-  //이건 1번하고 말아야 한다. 그래서 숫자 변수를 통해 거시기를 한다.
+  //이건 1번하고 말아야 한다. 그래서 숫자 변수를 통해 거시기를 한다..
   var fetchtime = 0;
  
 
