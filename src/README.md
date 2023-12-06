@@ -2,7 +2,7 @@
 
 이 웹사이트는 전국에 있는 10만개의 모든 약국,병원의 데이터를 추출하여 몽고디비에 저장 한 뒤 그것을 서버에서 받아온 뒤, 마커로 변환하여 위치 정보 및 여러가지 데이터를 보여주는 웹 사이트입니다.
 
-사용 기술:react,express,mongoDB,카카오 지도 api,node.js,html,css,javascript,공공데이터(CSV 파일),jquery cdn(url을 통해서 제이쿼리를 쓸 수 있게 하는 기능),chat GPT(모르는 코드를 물어볼 때),styled-components,react-spinner 프록시,cors,nodemon(서버 부분 수정 시 서버를 다시 실행하지 않아도 되는 기능을 가짐.) 등 여러가지 리엑트,노드 관련 플러그인들
+사용 기술:react,express,mongoDB,카카오 지도 api,node.js,html,css,javascript,공공데이터(CSV 파일),jquery cdn(url을 통해서 제이쿼리를 쓸 수 있게 하는 기능),styled-components,react-spinner 프록시,cors,nodemon(서버 부분 수정 시 서버를 다시 실행하지 않아도 되는 기능을 가짐.) 등 여러가지 리엑트,노드 관련 플러그인들
 
 프로젝트 구현 방법
 
